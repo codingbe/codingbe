@@ -12,8 +12,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbe&langs_count=8&layout=compact)](https://github.com/codingbe/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=voluntad)](https://solved.ac/voluntad)
+![Codewars](https://github.r2v.ch/codewars?user=codingbe&stroke=%23BB432C)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbe&show_icons=true&theme=radical)](https://github.com/codingbe/github-readme-stats)
 ---
