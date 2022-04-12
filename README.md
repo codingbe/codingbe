@@ -9,6 +9,12 @@
 - 실전을 먼저 겪고 이론을 공부하는 편입니다.
 - 최근에 타입스크립트를 공부 중입니다.
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbe&langs_count=8&layout=compact)](https://github.com/codingbe/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbe&show_icons=true&theme=radical)](https://github.com/codingbe/github-readme-stats)
+---
+
 <!--
 **codingbe/codingbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
