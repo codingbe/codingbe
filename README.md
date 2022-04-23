@@ -5,35 +5,10 @@
 
 ## Intro
 - JavaScript와 React를 좋아합니다.
-- 같이 공부하는 것을 좋아합니다.
 - 실전을 먼저 겪고 이론을 공부하는 편입니다.
 - 최근에 타입스크립트를 공부 중입니다.
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbe&langs_count=8&layout=compact)](https://github.com/codingbe/github-readme-stats)
-
-![Codewars](https://github.r2v.ch/codewars?user=codingbe&stroke=%23BB432C)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbe&show_icons=true&theme=radical)](https://github.com/codingbe/github-readme-stats)
-
----
-
-<!--
-**codingbe/codingbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 😀 Skills
+## Skills
 
 <b>😍 Front</b>
 
@@ -42,3 +17,20 @@ Here are some ideas to get you started:
 <b>🤔 Back</b>
 
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbe&show_icons=true&theme=radical)](https://github.com/codingbe/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbe&langs_count=8&layout=compact)](https://github.com/codingbe/github-readme-stats)
+
+---
+
+# Algorithm
+<h4>LeetCode</h4>
+
+[![Le etcode Stats](https://leetcode.card.workers.dev/?username=codingbe)](https://leetcode.com/JacobLinCool)
+
+<h4>BaekJoon</h4>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=voluntad)](https://solved.ac/voluntad)
+
+---
