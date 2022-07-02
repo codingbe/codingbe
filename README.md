@@ -28,7 +28,7 @@
 
 <h4>BaekJoon</h4>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=voluntad)](https://solved.ac/voluntad)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=voluntad)](https://solved.ac/profile/voluntad)
 
 ---
 </div>
