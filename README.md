@@ -19,16 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbe&langs_count=8&layout=compact)](https://github.com/codingbe/github-readme-stats)
 
----
-
-### Algorithm
-<h4>LeetCode</h4>
-
-[![Le etcode Stats](https://leetcode.card.workers.dev/?username=codingbe)](https://leetcode.com/JacobLinCool)
-
-<h4>BaekJoon</h4>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=voluntad)](https://solved.ac/profile/voluntad)
-
----
 </div>
