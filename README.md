@@ -10,7 +10,6 @@
   
 ### Intro
   <p><strong>JavaScript</strong>와 <strong>React</strong>를 좋아합니다.</p>
-  <p>실전을 먼저 겪고 이론을 공부하는 편입니다.</p>
   <p>최근에 <strong>타입스크립트</strong>를 공부 중입니다.</p>
 
 ---
